@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5004237227660418190
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Casta\xF1edaSantiago_SG_Bodyguard"
+  m_Shader: {fileID: -6465566751694194690, guid: e5d7c99ad825dfa448f50ff27ff424c0, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AHC:
+        m_Texture: {fileID: 2800000, guid: 5205dc21a4c3cc148a704b4dcbed6f79, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AHCM:
+        m_Texture: {fileID: 2800000, guid: 5205dc21a4c3cc148a704b4dcbed6f79, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Masks:
+        m_Texture: {fileID: 2800000, guid: 5d31475ab2fadb047af51318de412fd3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalFromTextureSelector_46ea437c10d7405fbbed61ed1bd0c8c3_Texture_2780589406_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 8170b24a78f2d004daa107b128f2b323, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_3ebae35515e24f828a97fd98a58d822f_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 8287577bdabbbde4693afa8c4ab25edc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_44bddf8a43074f75998cfad9d82071b1_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: fef13bb10d3ffdb4b9ce82121177061f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_501c818b84f94abca11437c2a653818d_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 01289d210dcd34d45afb4275b54bcba4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_e91af69fd2c14f37a2c6455677919279_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: fef13bb10d3ffdb4b9ce82121177061f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _InlineSize: 0.25
+    - _LightSteps: 4
+    - _NormalOffset: 0.025
+    - _Normal_Strength: 0.85
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _RotacionXY: 0.6
+    - _RotacionZ: -1
+    m_Colors:
+    - _AmbientLightColor: {r: 0.24528301, g: 0.24528301, b: 0.24528301, a: 0}
+    - _AmbientOcclusionColor: {r: 0.37254295, g: 0.9137255, b: 0, a: 0}
+    - _HolsterVestColor1: {r: 0.24705884, g: 0.35686275, b: 0.46274513, a: 1}
+    - _HolsterVestColor2: {r: 0.08235294, g: 0.12941177, b: 0.21960786, a: 1}
+    - _InlineColor: {r: 0.5244144, g: 0.002491996, b: 0.5283019, a: 0}
+    - _LightColor: {r: 1, g: 1, b: 1, a: 0}
+    - _Normal_UVs: {r: 1, g: 1, b: 0, a: 0}
+    - _PantsColor1: {r: 0.050980397, g: 0.13333334, b: 0.2784314, a: 1}
+    - _PantsColor2: {r: 0.121568635, g: 0.6117647, b: 0.76470596, a: 1}
+    - _ShirtColor1: {r: 0.41176468, g: 0.41176468, b: 0.41176468, a: 1}
+    - _ShirtColor2: {r: 1, g: 1, b: 0.95686275, a: 1}
+    - _ShoesColor1: {r: 0.6698113, g: 0.34122464, b: 0.05371129, a: 1}
+    - _ShoesColor2: {r: 0.57647055, g: 0.41176468, b: 0.06274508, a: 1}
+    - _SkinColor1: {r: 0.57647055, g: 0.32941175, b: 0.06274508, a: 1}
+    - _SkinColor2: {r: 1, g: 0.7803922, b: 0.5803921, a: 1}
+    - _StrapsColor1: {r: 0, g: 0, b: 0, a: 1}
+    - _StrapsColor2: {r: 0.7264151, g: 0.7264151, b: 0.7264151, a: 1}
+    - _TilingAndOffset: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

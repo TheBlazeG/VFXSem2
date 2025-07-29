@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2942733275796285806
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "Casta\xF1edaSantiago_UfoCarnival"
+  m_Shader: {fileID: -6465566751694194690, guid: c72d0bf41510a9d46b733599651203fa, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _USEHD
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Cubemap:
+        m_Texture: {fileID: 8900000, guid: f59188565e866c141a40dfb9642c4f8d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissiveTex:
+        m_Texture: {fileID: 2800000, guid: faca497eb7ce66e4386fd342b6074c28, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FadeDirectionTex:
+        m_Texture: {fileID: 2800000, guid: 63df6325bd93a3849b658121c02dee36, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: b4a7f8b76e0ec3345a8e794da3512680, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 1211c6fdf39ce964196fd017b89a6777, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TransitionTex:
+        m_Texture: {fileID: 2800000, guid: af291ab4a1991814d81f169bb020716a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BlurOffset: 0
+    - _EmissiveOnInvisible: 0
+    - _FresnelPower: 1
+    - _LightingIntensity: 0
+    - _LightingNormalStrength: 0
+    - _NoiseIntensity: 0.01
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReflectionBlur: 0.37
+    - _ReflectionFresnelStrength: 0.149
+    - _ReflectionIntensity: 1
+    - _ReflectionNormalStrength: 0.156
+    - _RefractionFresnelFlip: 0
+    - _RefractionFresnelPower: 0.372
+    - _RefractionIntensity: 0.498
+    - _RefractionNormalMapStrength: 0.671
+    - _RefractionNormalStrength: 0.251
+    - _Transition: 0.5
+    - _TransitionSize: 0.015
+    - _USEHD: 1
+    m_Colors:
+    - _EmissiveColor: {r: 3.320755, g: 64, b: 60.1213, a: 0}
+    - _FresnelColor: {r: 0.01864591, g: 0.26415086, b: 0, a: 0}
+    - _NoiseSpeed: {r: 0.1, g: 0.3, b: 0, a: 0}
+    - _Offset: {r: 0, g: 0, b: 0, a: 0}
+    - _Tiling: {r: 5, g: 5, b: 0, a: 0}
+    - _TransitionColor: {r: 16, g: 7.9876294, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
