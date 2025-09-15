@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: "Assets/_Casta\xF1edaSantiago/Scenes/SampleScene.unity"
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: "Assets/MuseoShaders_SantiagoCasta\xF1eda/MuseoShaders_Carnival_SantiagoCasta\xF1eda.unity"
+    guid: b46e80ef38880484d8241952b6930169
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
